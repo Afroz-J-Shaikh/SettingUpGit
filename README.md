@@ -15,6 +15,7 @@
 * Setup git configuration
 
 `git config --global user.name "your_username"`
+
 `git config --global user.email "name@example.com"`
 
 
