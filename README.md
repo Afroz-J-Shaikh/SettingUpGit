@@ -54,10 +54,15 @@ Add your private SSH key to the ssh-agent.
 `cat .ssh/id_ed25519.pub`
 
 2 - Go to your GitHub account Settings.
+
 3 - In the left sidebar, click SSH and GPG keys.
+
 4 - Click New SSH key.
+
 5 - In the title add any name to your key (e.g., "batch-10 key").
+
 6 - Paste your public key copied from terminal into the "Key" field.
+
 7 - Click Add SSH key and confirm with your GitHub password if prompted. 
 
 8 - Verify your connection.
