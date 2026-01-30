@@ -6,6 +6,12 @@
 
 `git -v`
 
+* If git is not installed
+
+`sudo apt update`
+
+`sudo apt install git`
+
 * Setup git configuration
 
 `git config --global user.name "your_username"`
